@@ -32,7 +32,7 @@ function App() {
           {/* <h4 className="py-10">boris šikuljak</h4> */}
           <p className="py-10">
             Hello, I'm Boris Šikuljak, and this is the projects from John
-            Smilga's Udemy React course that I'm completed My github profile:
+            Smilga's Udemy React course that I'm completed. My github profile:
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
             </a>
