@@ -80,7 +80,7 @@ const menu = [
     url: 'https://shikulja-react-grocery-bud.netlify.app',
   },
   {
-    id: 11,
+    
     title: 'navbar',
     category: 'basic projects',
     img: './images/navbar.png',
@@ -136,7 +136,7 @@ const menu = [
     url: 'https://shikulja-react-random-person.netlify.app',
   },
   {
-    id: 18,
+    
     title: 'pagination',
     category: 'course exclusive',
     img: './images/pagination.png',
@@ -173,7 +173,7 @@ const menu = [
     category: 'course exclusive',
     img: './images/hackers-news.png',
     tech: 'react',
-    url: 'https://shikulja-hacker-news.netlify.app',
+    url: 'https://shikulja-react-hacker-news.netlify.app',
   },
   {
     id: 23,
