@@ -173,7 +173,7 @@ const menu = [
     category: 'course exclusive',
     img: './images/hackers-news.png',
     tech: 'react',
-    url: 'https://shikulja-hacker-news.netlify.app',
+    url: 'https://shikulja-react-hacker-news.netlify.app',
   },
   {
     id: 23,
