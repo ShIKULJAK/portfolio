@@ -207,5 +207,13 @@ const menu = [
     tech: 'redux-toolkit',
     url: 'https://shikulja-redux-toolkit-jobster.netlify.app',
   },
+  {
+    id: 27,
+    title: 'expenses',
+    category: 'large-scale projects',
+    img: './images/jobster.png',
+    tech: 'remix-run-fullstack-app',
+    url: 'https://shikulja-remix-expenses.netlify.app/',
+  },
 ];
 export default menu;
