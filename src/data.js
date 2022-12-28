@@ -211,7 +211,7 @@ const menu = [
     id: 27,
     title: 'expenses',
     category: 'large-scale projects',
-    img: './images/jobster.png',
+    img: './images/expenses.png',
     tech: 'remix-run-fullstack-app',
     url: 'https://shikulja-remix-expenses.netlify.app/',
   },
