@@ -33,7 +33,8 @@ function App() {
           <p className="py-10">
             Hello, I'm Boris Šikuljak, and these are courses projects from John
             Smilga's (React course) and Maximilian Schwarzmüller's (Remix.js
-            course) which I've completed. My github profile:
+            course) which I've completed. <br />
+            My github profile:
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
             </a>
