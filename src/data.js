@@ -218,7 +218,7 @@ const menu = [
     {
     id: 28,
     title: 'mymoney',
-    category: 'basic-project',
+    category: 'basic project',
     img: './images/mymoney.png',
     tech: 'react-firebase-fullstack-app',
     url: 'https://mymoney-shikulja.web.app/',
