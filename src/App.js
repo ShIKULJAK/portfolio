@@ -32,7 +32,7 @@ function App() {
           {/* <h4 className="py-10">boris šikuljak</h4> */}
           <p className="py-10">
             Hello, I'm Boris Šikuljak, and these are courses projects from John
-            Smilga's (React course) and Maximilian Schwarzmüller's (Remix.js
+            Smilga's (React course), The Net Ninja(React and Firebase course) and Maximilian Schwarzmüller's (Remix.js
             course) which I've completed. <br />
             My github profile:
             <a href="https://github.com/ShIKULJAK" target="_blank">
