@@ -215,5 +215,13 @@ const menu = [
     tech: 'remix-run-fullstack-app',
     url: 'https://shikulja-remix-expenses.netlify.app/',
   },
+    {
+    id: 28,
+    title: 'mymoney',
+    category: 'basic-project',
+    img: './images/mymoney.png',
+    tech: 'react-firebase-fullstack-app',
+    url: 'https://mymoney-shikulja.web.app/',
+  }
 ];
 export default menu;
