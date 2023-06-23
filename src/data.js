@@ -204,7 +204,7 @@ const menu = [
     title: 'jobster',
     category: 'large-scale projects',
     img: './images/jobster.png',
-    tech: 'redux-toolkit',
+    tech: 'react-redux-toolkit',
     url: 'https://shikulja-redux-toolkit-jobster.netlify.app',
   },
   {
@@ -218,10 +218,18 @@ const menu = [
     {
     id: 28,
     title: 'mymoney',
-    category: 'basic projects',
+    category: 'large-scale projects',
     img: './images/mymoney.png',
     tech: 'react-firebase-fullstack-app',
     url: 'https://mymoney-shikulja.web.app/',
+  },
+  {
+    id: 29,
+    title: 'invoice',
+    category: 'large-scale projects',
+    img: './images/invoice-app.png',
+    tech: 'redux-toolkit-typescript',
+    url: 'https://shikulja-invoice-app.netlify.app/',
   }
 ];
 export default menu;
