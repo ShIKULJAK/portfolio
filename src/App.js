@@ -31,9 +31,13 @@ function App() {
           />
           {/* <h4 className="py-10">boris šikuljak</h4> */}
           <p className="py-10">
-            Hello, I'm Boris Šikuljak, and these are courses projects from John
-            Smilga's (React course), The Net Ninja (React and Firebase course) and Maximilian Schwarzmüller's (Remix.js
-            course) which I've completed. <br />
+         Hello, I'm Boris Šikuljak, and I'm a junior frontend developer. Down below are the React projects from variety courses for frontend development and one (fullstack) Remix.js project which I've completed.
+There is one project (Frontened mentor - Invoice app) which I have made from scratch. All the other projects as I mentioned are from Udemy's courses, which I've carefully went through it.
+
+My stack:
+HTML/CSS, SCSS, Bootstrap, Tailwind, Javascript, TypeScript, React, Redux, Redux Toolkit, Next.js, Remix.js
+
+I'm planning to start learning Node.js. <br />
             My github profile:
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
