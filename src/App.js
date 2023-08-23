@@ -12,10 +12,10 @@ function App() {
 
   const filterItems = (category) => {
     if (category === 'all') {
-      setMenuItems(items);
+      setMenuItems(items.reverse());
       return;
     }
-    const newItems = items.reverse().filter((item) => item.category === category);
+    const newItems = items.filter((item) => item.category === category);
     setMenuItems(newItems);
   };
 
