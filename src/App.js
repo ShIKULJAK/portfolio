@@ -49,10 +49,11 @@ I'm planning to start learning Node.js.
               github.com/ShIKULJAK
             </a>
             </span>
+  <br/>
   <span>My LinkedIn profile:
             <a href="https://www.linkedin.com/in/boris-sikuljak/">
               https://linkedin.com/in/boris-sikuljak/
-            </a> <br/>
+            </a> 
             </span>
             .
           </p>
