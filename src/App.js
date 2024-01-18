@@ -44,10 +44,16 @@ My stack:
 <br/>
 I'm planning to start learning Node.js. 
 <br />
-            My github profile:
+            <span>My Github profile:
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
             </a>
+            </span>
+  <span>My LinkedIn profile:
+            <a href="https://www.linkedin.com/in/boris-sikuljak/">
+              https://linkedin.com/in/boris-sikuljak/
+            </a>
+            </span>
             .
           </p>
           {/* <h2>portfolio</h2> */}
