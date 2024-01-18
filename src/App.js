@@ -3,6 +3,8 @@ import Menu from './Menu';
 import Categories from './Categories';
 import items from './data';
 import Header from './Header';
+import imgGithub from '../public/github-mark.svg'
+import imgLinkedIn from 'icons8-linkedin-100.svg'
 
 const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 
@@ -44,13 +46,13 @@ My stack:
 <br/>
 I'm planning to start learning Node.js. 
 <br />
-            <span>My Github profile:
+            <span>My Github profile:<img src={imgGithub} alt="Github"/>
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
             </a>
             </span>
   <br/>
-  <span>My LinkedIn profile:
+  <span>My LinkedIn profile: <img src={imgLinkedIn} alt="LinkedIn"/>
             <a href="https://www.linkedin.com/in/boris-sikuljak/">
               https://linkedin.com/in/boris-sikuljak/
             </a> 
