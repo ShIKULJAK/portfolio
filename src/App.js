@@ -52,7 +52,7 @@ I'm planning to start learning Node.js.
   <span>My LinkedIn profile:
             <a href="https://www.linkedin.com/in/boris-sikuljak/">
               https://linkedin.com/in/boris-sikuljak/
-            </a>
+            </a> <br/>
             </span>
             .
           </p>
