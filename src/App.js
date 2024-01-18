@@ -34,8 +34,13 @@ function App() {
          Hello, I'm Boris Šikuljak, and I'm a junior frontend developer. Down below are the React projects from variety courses for frontend development and one (fullstack) Remix.js project which I've completed.
 There is one project (Frontened mentor - Invoice app) which I have made from scratch. All the other projects as I mentioned are from Udemy's courses, which I've carefully went through it.
 <br/>
+
+At the end of october 2023, I've started to learn Strapi (Headless CMS) for backend.
+
+  <br/>
+  
 My stack:
-<b>HTML/CSS, SCSS, Bootstrap, Tailwind, Javascript, TypeScript, React, Redux, Redux Toolkit, Next.js, Remix.js</b>
+<b>HTML/CSS, SCSS, Bootstrap, Tailwind, Javascript, TypeScript, React, Redux, Redux Toolkit, Next.js, Remix.js, Strapi (Headless CMS)</b>
 <br/>
 I'm planning to start learning Node.js. 
 <br />
