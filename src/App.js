@@ -46,13 +46,15 @@ My stack:
 <br/>
 I'm planning to start learning Node.js. 
 <br />
-            <span>My Github profile:<img src={imgGithub} alt="Github"/>
+            <span>My Github profile:
+// <img src={imgGithub} alt="Github"/>
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
             </a>
             </span>
   <br/>
-  <span>My LinkedIn profile: <img src={imgLinkedIn} alt="LinkedIn"/>
+  <span>My LinkedIn profile: 
+// <img src={imgLinkedIn} alt="LinkedIn"/>
             <a href="https://www.linkedin.com/in/boris-sikuljak/">
               https://linkedin.com/in/boris-sikuljak/
             </a> 
