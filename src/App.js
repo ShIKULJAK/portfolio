@@ -44,7 +44,7 @@ At the end of october 2023, I've started to learn Strapi (Headless CMS) for back
 My stack:
 <b>HTML/CSS, SCSS, Bootstrap, Tailwind, Javascript, TypeScript, React, Redux, Redux Toolkit, Next.js, Remix.js, Strapi (Headless CMS)</b>
 <br/>
-I'm planning to start learning Node.js. 
+I'm planning to start learning Node.js. jes jes jes 
 <br />
 
   
