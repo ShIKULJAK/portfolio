@@ -44,11 +44,11 @@ At the end of october 2023, I've started to learn Strapi (Headless CMS) for back
 My stack:
 <b>HTML/CSS, SCSS, Bootstrap, Tailwind, Javascript, TypeScript, React, Redux, Redux Toolkit, Next.js, Remix.js, Strapi (Headless CMS)</b>
 <br/>
-I'm planning to start learning Node.js. jes jes jes 
+I'm planning to start learning Node.js. 
 <br />
 
   
-  {/* <span>My Github profile:
+   <span>My Github profile:
  <img src={imgGithub} alt="Github"/>
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
@@ -60,11 +60,11 @@ I'm planning to start learning Node.js. jes jes jes
             <a href="https://www.linkedin.com/in/boris-sikuljak/">
               https://linkedin.com/in/boris-sikuljak/
             </a> 
-            </span>.*/}
-<a href="https://www.linkedin.com/in/boris-sikuljak"><img width='50' src={imgLinkedIn}/></a>
+            </span>.
+  {/*<a href="https://www.linkedin.com/in/boris-sikuljak"><img width='50' src={imgLinkedIn}/></a>
  <a href="https://github.com/ShIKULJAK" target="_blank">
             github.com/ShIKULJAK
-          </a> 
+          </a> */}
 
   
             
