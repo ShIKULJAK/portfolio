@@ -3,8 +3,8 @@ import Menu from './Menu';
 import Categories from './Categories';
 import items from './data';
 import Header from './Header';
-import imgGithub from '../public/github-mark.svg'
-import imgLinkedIn from 'icons8-linkedin-100.svg'
+import imgGithub from '../../public/github-mark.svg'
+import imgLinkedIn from '../../public/icons8-linkedin-100.svg'
 
 const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 
@@ -46,20 +46,28 @@ My stack:
 <br/>
 I'm planning to start learning Node.js. 
 <br />
-            <span>My Github profile:
-// <img src={imgGithub} alt="Github"/>
+
+  
+  {/* <span>My Github profile:
+ <img src={imgGithub} alt="Github"/>
             <a href="https://github.com/ShIKULJAK" target="_blank">
               github.com/ShIKULJAK
             </a>
             </span>
   <br/>
   <span>My LinkedIn profile: 
-// <img src={imgLinkedIn} alt="LinkedIn"/>
+ <img src={imgLinkedIn} alt="LinkedIn"/>
             <a href="https://www.linkedin.com/in/boris-sikuljak/">
               https://linkedin.com/in/boris-sikuljak/
             </a> 
-            </span>
-            .
+            </span>.*/}
+<a href="https://www.linkedin.com/in/boris-sikuljak"><img width='50' src={imgLinkedIn}/></a>
+ <a href="https://github.com/ShIKULJAK" target="_blank">
+            github.com/ShIKULJAK
+          </a> 
+
+  
+            
           </p>
           {/* <h2>portfolio</h2> */}
           <h2>projects</h2>
