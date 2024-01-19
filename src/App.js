@@ -3,8 +3,8 @@ import Menu from './Menu';
 import Categories from './Categories';
 import items from './data';
 import Header from './Header';
-import imgGithub from '../../public/github-mark.svg'
-import imgLinkedIn from '../../public/icons8-linkedin-100.svg'
+import imgGithub from '../../public/images/github-mark.svg'
+import imgLinkedIn from '../../public/images/icons8-linkedin-100.svg'
 
 const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 
