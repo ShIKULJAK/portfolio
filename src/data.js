@@ -230,6 +230,14 @@ const menu = [
     img: './images/invoice-app.png',
     tech: 'redux-toolkit-typescript',
     url: 'https://shikulja-invoice-app.netlify.app/',
+  },
+    {
+    id: 30,
+    title: 'gpt-genius',
+    category: 'large-scale projects',
+    img: './images/gpt-genius.png',
+    tech: 'Next.js, React Query, Prisma,OpenAI,Clerk, Axios,Toast, Tailwind, Daisy UI,',
+    url: 'https://shikulja-gpt-genius.vercel.app/',
   }
 ];
 export default menu;
