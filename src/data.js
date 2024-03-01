@@ -236,7 +236,7 @@ const menu = [
     title: 'gpt-genius',
     category: 'large-scale projects',
     img: './images/gpt-genius.png',
-    tech: 'Next.js, React Query, Prisma,OpenAI,Clerk, Axios,Toast, Tailwind, Daisy UI,',
+    tech: 'Next.js, React Query, Prisma,OpenAI,Clerk, Axios,Toast, Tailwind, Daisy UI',
     url: 'https://shikulja-gpt-genius.vercel.app/',
   }
 ];
